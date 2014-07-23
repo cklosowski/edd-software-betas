@@ -1,6 +1,6 @@
 EDD Software Betas
 ==================
-*Work in Progress*
+**»»»»»»Work in Progress, do not use this on a production site««««««**
 
 Adds the ability to add beta versions to your site, available for download in the users purchase history.
 
